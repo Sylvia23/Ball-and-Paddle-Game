@@ -8,3 +8,7 @@ The ball hits the paddle and rebounds. This way you can continue the game.
 Technical requirements-
 You just need to clone the repository and run on your browser with JavaScript enabled.
 
+Also, the game is hosted on heroku. You can play the game by clicking the following link :
+
+https://ball-and-paddle-game.herokuapp.com/
+
